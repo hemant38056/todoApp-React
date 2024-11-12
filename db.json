@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "username": "ABC",
+      "email": "abc@email.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "ABCD",
+      "email": "abcd@email.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "username": "XYZ",
+      "email": "xyz@email.com",
+      "password": "987",
+      "id": 3
+    },
+    {
+      "username": "TRY",
+      "email": "try@email.com",
+      "password": "963",
+      "id": 4
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "title": "JavaScript",
+      "userid": 1,
+      "modifiedon": "Mon Sep 30 2024 11:47:34 GMT+0530 (India Standard Time)",
+      "description": "Arrow Functions",
+      "duedate": "2024-09-30T11:47",
+      "id": 1
+    },
+    {
+      "title": "React",
+      "userid": 1,
+      "modifiedon": "Tue Oct 01 2024 10:16:06 GMT+0530 (India Standard Time)",
+      "description": "Hooks and Props",
+      "duedate": "2024-10-01T10:16",
+      "id": 2
+    },
+    {
+      "title": "Grid Layout",
+      "userid": 1,
+      "modifiedon": "Tue Oct 01 2024 10:16:30 GMT+0530 (India Standard Time)",
+      "description": "Advance CSS",
+      "duedate": "2024-10-01T10:16",
+      "id": 3
+    },
+    {
+      "title": "Media Queries",
+      "userid": 1,
+      "modifiedon": "Tue Oct 01 2024 10:16:50 GMT+0530 (India Standard Time)",
+      "description": "Advance CSS",
+      "duedate": "2024-10-01T10:16",
+      "id": 4
+    },
+    {
+      "title": "Payment Integration",
+      "userid": 1,
+      "modifiedon": "Tue Oct 01 2024 10:19:08 GMT+0530 (India Standard Time)",
+      "description": "NodeJs",
+      "duedate": "2024-10-01T10:16",
+      "id": 5
+    },
+    {
+      "title": "Car Racing",
+      "userid": 1,
+      "modifiedon": "Thu Oct 03 2024 07:32:04 GMT+0530 (India Standard Time)",
+      "description": "Game Development by JavaScript",
+      "duedate": "2024-10-03T07:32",
+      "id": 6
+    },
+    {
+      "title": "Rest API",
+      "userid": 1,
+      "modifiedon": "Thu Oct 03 2024 07:34:08 GMT+0530 (India Standard Time)",
+      "description": "Building and Testing APIs using Postman.",
+      "duedate": "2024-10-04T07:34",
+      "id": 7
+    },
+    {
+      "title": "Props",
+      "userid": 1,
+      "modifiedon": "Fri Oct 04 2024 10:53:14 GMT+0530 (India Standard Time)",
+      "description": "Learning and Applying props with small projects.",
+      "duedate": "2024-10-05T10:48",
+      "id": 8
+    }
+  ]
+}
